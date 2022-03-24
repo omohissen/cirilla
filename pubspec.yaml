@@ -88,7 +88,7 @@ dependencies:
   firebase_database: ^9.0.6
 
   # A cross platform plugin for displaying local notifications.
-  flutter_local_notifications: ^8.1.1
+  flutter_local_notifications: ^9.4.0
 
   # Package generate pin code fields with beautiful design and animations
   pin_code_fields: ^7.3.0
@@ -100,7 +100,7 @@ dependencies:
   sign_in_with_apple: ^3.1.0
 
   # Sign In facebook
-  flutter_facebook_auth: ^3.5.7
+  flutter_facebook_auth: ^4.1.2
 
   # Text animations
   animated_text_kit: ^4.2.1
