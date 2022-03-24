@@ -702,13 +702,6 @@
             </list>
           </value>
         </entry>
-        <entry key="gutenberg_blocks">
-          <value>
-            <list>
-              <option value="$PROJECT_DIR$/../gutenberg_blocks/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="html">
           <value>
             <list>
@@ -1332,13 +1325,6 @@
             </list>
           </value>
         </entry>
-        <entry key="ui">
-          <value>
-            <list>
-              <option value="$PROJECT_DIR$/../ui/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="url_launcher">
           <value>
             <list>
@@ -1489,8 +1475,6 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../gutenberg_blocks/lib" />
-      <root url="file://$PROJECT_DIR$/../ui/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/flutter_swiper-d82a8baefaf10749228e42e6806ce4ffa83d7e0c/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-37.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-3.4.0/lib" />
