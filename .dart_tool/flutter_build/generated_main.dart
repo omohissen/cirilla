@@ -5,10 +5,10 @@
 
 // @dart = 2.15
 
-// When `file:///C:/Users/it/AppData/Local/Temp/flutter_tools.ac6824ce/flutter_test_listener.4486b34e/listener.dart` defines `main`, that definition is shadowed by the definition below.
-export 'file:///C:/Users/it/AppData/Local/Temp/flutter_tools.ac6824ce/flutter_test_listener.4486b34e/listener.dart';
+// When `package:cirilla/main.dart` defines `main`, that definition is shadowed by the definition below.
+export 'package:cirilla/main.dart';
 
-import 'file:///C:/Users/it/AppData/Local/Temp/flutter_tools.ac6824ce/flutter_test_listener.4486b34e/listener.dart' as entrypoint;
+import 'package:cirilla/main.dart' as entrypoint;
 import 'dart:io'; // flutter_ignore: dart_io_import.
 import 'package:path_provider_android/path_provider_android.dart';
 import 'package:shared_preferences_android/shared_preferences_android.dart';
