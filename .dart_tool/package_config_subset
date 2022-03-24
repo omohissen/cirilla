@@ -2,14 +2,6 @@ cirilla
 2.15
 file:///C:/Users/it/Desktop/123/app/cirilla/
 file:///C:/Users/it/Desktop/123/app/cirilla/lib/
-gutenberg_blocks
-2.12
-file:///C:/Users/it/Desktop/123/app/gutenberg_blocks/
-file:///C:/Users/it/Desktop/123/app/gutenberg_blocks/lib/
-ui
-2.15
-file:///C:/Users/it/Desktop/123/app/ui/
-file:///C:/Users/it/Desktop/123/app/ui/lib/
 flutter_swiper
 2.12
 file:///C:/src/flutter/.pub-cache/git/flutter_swiper-d82a8baefaf10749228e42e6806ce4ffa83d7e0c/
@@ -850,4 +842,12 @@ flutter_web_plugins
 2.12
 file:///C:/src/flutter/packages/flutter_web_plugins/
 file:///C:/src/flutter/packages/flutter_web_plugins/lib/
+gutenberg_blocks
+2.12
+file:///C:/Users/it/Desktop/123/app/cirilla/gutenberg_blocks/
+file:///C:/Users/it/Desktop/123/app/cirilla/gutenberg_blocks/lib/
+ui
+2.15
+file:///C:/Users/it/Desktop/123/app/cirilla/ui/
+file:///C:/Users/it/Desktop/123/app/cirilla/ui/lib/
 2

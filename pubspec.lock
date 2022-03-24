@@ -698,7 +698,7 @@ packages:
   gutenberg_blocks:
     dependency: "direct main"
     description:
-      path: "../gutenberg_blocks"
+      path: gutenberg_blocks
       relative: true
     source: path
     version: "0.0.1"
@@ -1326,7 +1326,7 @@ packages:
   ui:
     dependency: "direct main"
     description:
-      path: "../ui"
+      path: ui
       relative: true
     source: path
     version: "1.0.0"
