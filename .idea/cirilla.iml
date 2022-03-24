@@ -6,6 +6,18 @@
       <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/gutenberg_blocks/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/gutenberg_blocks/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/gutenberg_blocks/build" />
+      <excludeFolder url="file://$MODULE_DIR$/gutenberg_blocks/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/gutenberg_blocks/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/gutenberg_blocks/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ui/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ui/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ui/example/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
